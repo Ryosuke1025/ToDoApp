@@ -27,7 +27,7 @@
 |:-:|
 
 ### 7.このように追加,削除が行える
-|[イベント7](https://user-images.githubusercontent.com/106091028/183052300-74b345be-1df4-456e-8aa9-a1accfe48317.png)|
+|![イベント7](https://user-images.githubusercontent.com/106091028/183052300-74b345be-1df4-456e-8aa9-a1accfe48317.png)|
 |:-:|
 
 ## 使用した言語
