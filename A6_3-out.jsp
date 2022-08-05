@@ -15,7 +15,8 @@ ps.executeUpdate();
 <TITLE>INSERT</TITLE>
 </HEAD>
 <BODY>
-<% out.print("削除");%><BR>
+削除しました<BR>
+<a href="http://dius01.ksc.kwansei.ac.jp/network/students22/stu0729/report/events.jsp" target="_blank">トップページはこちら</a>
 </BODY>
 </HTML>
  
